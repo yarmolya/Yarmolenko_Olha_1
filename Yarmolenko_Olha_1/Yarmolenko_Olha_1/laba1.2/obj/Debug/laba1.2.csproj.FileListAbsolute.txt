@@ -1,0 +1,9 @@
+/Users/olyayarmolenko/Projects/laba1.2/laba1.2/bin/Debug/laba1.2.exe
+/Users/olyayarmolenko/Projects/laba1.2/laba1.2/bin/Debug/laba1.2.pdb
+/Users/olyayarmolenko/Projects/laba1.2/laba1.2/obj/Debug/laba1.2.csproj.AssemblyReference.cache
+/Users/olyayarmolenko/Projects/laba1.2/laba1.2/obj/Debug/laba1.2.csproj.CoreCompileInputs.cache
+/Users/olyayarmolenko/Projects/laba1.2/laba1.2/obj/Debug/laba1.2.exe
+/Users/olyayarmolenko/Projects/laba1.2/laba1.2/obj/Debug/laba1.2.pdb
+/Users/olyayarmolenko/Projects/laba1.2/laba1.2/bin/Debug/Newtonsoft.Json.dll
+/Users/olyayarmolenko/Projects/laba1.2/laba1.2/bin/Debug/Newtonsoft.Json.xml
+/Users/olyayarmolenko/Projects/laba1.2/laba1.2/obj/Debug/laba1.2.csproj.CopyComplete
